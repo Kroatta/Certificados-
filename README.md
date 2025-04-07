@@ -12,9 +12,9 @@ Olá! 👋 Sou um estudante de Ciência da Computação. Tenho estudado e pratic
 
 ## 🛠 Tecnologias que estudo e aplico
 
-- Android Studio**
-- Kotlin**
-- Flutter**
-- Dart**
+- Android Studio
+- Kotlin
+- Flutter
+- Dart
 - React Native
 - Git & GitHub
