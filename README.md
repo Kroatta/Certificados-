@@ -17,4 +17,4 @@ Olá! 👋 Sou um estudante de Ciência da Computação. Tenho estudado e pratic
 - Flutter
 - Dart
 - React Native
-- Git & GitHub
+
